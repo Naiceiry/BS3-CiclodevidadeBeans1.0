@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=2x8YrmKx0dE
+
+@PostConstruct: antes de construir el bean
+@PreDestroy: despues de q el contenedor de sprint se apague
+metodos propios
+
+https://programmerclick.com/article/864032113/
+https://www.baeldung.com/spring-order
